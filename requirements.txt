@@ -1,4 +1,6 @@
-streamlit
-cv2
+scikit-learn
+opencv-python
+pillow
 numpy
 joblib
+scikit-image

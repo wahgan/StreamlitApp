@@ -2,5 +2,3 @@ streamlit
 cv2
 numpy
 joblib
-PIL
-skimage
